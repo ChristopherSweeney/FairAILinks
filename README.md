@@ -12,6 +12,6 @@ A collection of links to open source and commercial ventures to create fairer AI
 ..* Aequitas https://github.com/dssg/aequitas
 
 2. Commercial
-..* Accenture Fairness Tool https://www.accenture.com/gb-en/blogs/blogs-cogx-tackling-challenge-ethics-ai
-..* Microsoft https://venturebeat.com/2018/05/25/microsoft-is-developing-a-tool-to-help-engineers-catch-bias-in-algorithms/
-..* Facebook Fairness Flow https://qz.com/1268520/facebook-says-it-has-a-tool-to-detect-bias-in-its-artificial-intelligence/
+..1 Accenture Fairness Tool https://www.accenture.com/gb-en/blogs/blogs-cogx-tackling-challenge-ethics-ai
+..2 Microsoft https://venturebeat.com/2018/05/25/microsoft-is-developing-a-tool-to-help-engineers-catch-bias-in-algorithms/
+..3 Facebook Fairness Flow https://qz.com/1268520/facebook-says-it-has-a-tool-to-detect-bias-in-its-artificial-intelligence/
